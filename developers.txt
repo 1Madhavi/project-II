@@ -1,0 +1,20 @@
+						          
+	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@	  
+	@					      @	  
+ 	@            PARKING MANAGEMENT SYSTEM        @  
+ 	@	       				      @	 
+	@		    MADE BY:		      @	
+	@		KRITIKA BHATTA		      @  
+ 	@		MADHAVI NEUPANE		      @  
+ 	@		PUSPA PANDEYA                 @  
+ 	@		SAMJHANA KHATRI		      @
+	@                                             @
+	@	 College of Information Technology    @   
+	@                and Engineering              @   
+	@		     			      @  
+ 	@                    Tinkune                  @   
+  	@   	            Kathmandu                 @   
+	@					      @   
+ 	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@	 
+ 
+
